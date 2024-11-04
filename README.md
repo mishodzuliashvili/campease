@@ -26,7 +26,7 @@ Built with Next.js, TailwindCSS, and TypeScript, this landing page not only look
 - Next.js
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="featuress">🔋 Features</a>
 👉 **Eye-Catching Hero Section**: A visually impressive hero area designed to grab attention and establish the website's theme.  
 
 👉 **Camp Discovery Section**: A dedicated space showcasing various camps, enabling users to browse and explore different options.  
